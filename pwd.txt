@@ -1,8 +1,0 @@
-jdbc.driverClassName=oracle.jdbc.driver.OracleDriver
-
-
-
-
-
-
-
