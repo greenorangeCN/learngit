@@ -1,40 +1,5 @@
 jdbc.driverClassName=oracle.jdbc.driver.OracleDriver
-jdbc.url=jdbc\:oracle\:thin\:@124.232.141.25\:1989\:infox
-jdbc.username=hunanxdq
-jdbc.password=hunanxdq
 
-
-https://121.199.33.43/svn
-
-124.232.141.25:3389
-sunrise001
-]'/[;.PL<)(*
-
-
-121.199.33.43
-qingchengkj
-20131q2w3e4r5t
-
-
-
-121.199.33.43
-wenftp	a123456
-
-
-https://121.199.33.43/svn/Zhxq-ios/
-
-
-33977569@qq.comHJK5211569hjk
-
-121477015@qq.comHnsunrise123
-
-
-lijitian@ruifenginfo.com
-Ezhangkong258
-
-烟草企业开发者
-liuyycs@hntobacco.com
-Ab040927
 
 
 
